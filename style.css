@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-size: 1.2rem;
+}
+
+
+.menuButton{
+    background-color: rgb(159, 150, 150);
+    width: 500px;
+    height: 100px;
+}
+
+.container{
+    display: inline-block;
+    position: relative;
+}
+.dropDownContainer{
+    display: none;
+    position: absolute;
+    width: 100%;
+    text-align: center;
+}
+.dropDownContainer a{
+    background-color: aquamarine;
+    border: 1px solid black;
+    display: block;
+    padding: 20px;
+}
+.dropDownContainer a:hover{
+    background-color: bisque;
+}
+.screen{
+    display: block;
+}

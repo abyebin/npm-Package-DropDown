@@ -1,0 +1,24 @@
+{
+  "name": "abyebindropdown",
+  "version": "1.0.0",
+  "description": "Drop Down Menu package",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abyebin/npm-Package-DropDown.git"
+  },
+  "keywords": [
+    "drop",
+    "down",
+    "menu"
+  ],
+  "author": "abyebin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abyebin/npm-Package-DropDown/issues"
+  },
+  "homepage": "https://github.com/abyebin/npm-Package-DropDown#readme"
+}
